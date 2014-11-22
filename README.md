@@ -1,4 +1,4 @@
 AndroidAPKMulti
 ===============
 
-android一次打包APK的工具
+android一次打包多个APK的工具
