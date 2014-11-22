@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Multiapk
+Bundle-SymbolicName: com.rocwinger.android.multiapk
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.rocwinger.android.multiapk.Activator
+Bundle-Vendor: ROCWINGER
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
