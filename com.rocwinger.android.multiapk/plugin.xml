@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.newWizards">
+      <wizard
+            class="com.rocwinger.android.multiapk.export.ExportWizard"
+            id="com.rocwinger.android.multiapk.exportWizard"
+            name="导出多个Android项目">
+      </wizard>
+   </extension>
+
+</plugin>
